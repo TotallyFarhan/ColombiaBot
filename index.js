@@ -37,4 +37,4 @@ client.on('guildMemberAdd', member => {
 })
 
 //Last line in file
-client.login('INSERT TOKEN HERE');
+//client.login('INSERT TOKEN HERE');
